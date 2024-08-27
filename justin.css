@@ -87,7 +87,7 @@ h2 {
     color: #00ff99;
     text-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99, 0 0 30px #00ff99;
 }
-/* use hashtag to refer to a section id in index.html, id name */
+/* use hashtag to refer to a section id in justin.html, id name */
 /* hw: find out the difference between id selector and class selector(follows by a .classname)  */
 #photos .photo-grid, #fan-art .fan-art-grid {
     display: flex;
